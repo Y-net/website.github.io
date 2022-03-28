@@ -17,7 +17,7 @@ const idx = [
   {
     "link": "https://y-net.dev/",
     "title": "Y-net",
-    "body": `[事業内容 ネットワーク構築・運用事業 ブログ運用(yoneyan.blog) doornocへのWebシステム提供 Read the Docs Download Theme --]`.toLowerCase(),
+    "body": `[事業内容 ネットワーク構築・運用・検証事業 ソフトウェア開発・運用 ブログ運用(yoneyan.blog) doornocへのWebシステム提供 Read the Docs Download Theme --]`.toLowerCase(),
   },
 ];
 
